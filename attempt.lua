@@ -1,1 +1,1 @@
-local t = "abc", "bca", "s"
+local t = {"abc", "bca", "s"}
